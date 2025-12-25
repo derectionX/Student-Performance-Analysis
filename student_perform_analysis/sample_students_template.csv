@@ -1,0 +1,4 @@
+Hours_Studied,Attendance,Parental_Involvement,Access_to_Resources,Extracurricular_Activities,Sleep_Hours,Previous_Scores,Motivation_Level,Internet_Access,Tutoring_Sessions,Family_Income,Teacher_Quality,School_Type,Peer_Influence,Physical_Activity,Learning_Disabilities,Parental_Education_Level,Distance_from_Home,Gender
+6,85,Medium,High,Yes,7,78,Medium,Yes,1,Medium,High,Public,Positive,3,No,College,Near,Male
+2,72,Low,Medium,No,8,65,Low,Yes,0,Low,Medium,Private,Neutral,2,No,High School,Moderate,Female
+4,90,High,High,Yes,6,88,High,No,2,High,High,Public,Negative,5,Yes,Postgraduate,Far,Male
